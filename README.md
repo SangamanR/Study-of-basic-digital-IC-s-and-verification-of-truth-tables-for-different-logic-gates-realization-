@@ -1,5 +1,5 @@
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
- AIM:
+## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
 Equipments Required:
@@ -76,12 +76,12 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 Developed by: Sangaman.R
 RegisterNumber: 22009061
 ~~~
-### Logic symbol & Truthtable
-![truth table](https://github.com/SangamanR/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/files/10308236/truth.table.jpeg)
+### Logic symbol & Truthtable:
+![TRUTH TABLE](https://user-images.githubusercontent.com/93427224/189707851-bed425f5-dc5f-4145-927c-9b3c7e6bee21.jpeg)
 
 
-### RTL realization 
-![DIAGRAM](https://github.com/SangamanR/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/files/10308240/EXP.1.DIAGRAM.png)
+### RTL realization: 
+![DIAGRAM](https://user-images.githubusercontent.com/93427224/189699998-9bfb1c1b-2c57-468f-9111-930d17a02d8b.png)
 
 
 
